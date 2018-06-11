@@ -1,0 +1,258 @@
+{
+  "1": {
+    "statecode": "GA",
+    "name": "ALBANY"
+  },
+  "2": {
+    "statecode": "GA",
+    "name": "AMERICUS"
+  },
+  "3": {
+    "statecode": "GA",
+    "name": "ATHENS"
+  },
+  "4": {
+    "statecode": "GA",
+    "name": "ATLANTA"
+  },
+  "5": {
+    "statecode": "GA",
+    "name": "AUGUSTA"
+  },
+  "6": {
+    "statecode": "GA",
+    "name": "BAINBRIDGE"
+  },
+  "7": {
+    "statecode": "GA",
+    "name": "BARNESVILLE"
+  },
+  "8": {
+    "statecode": "GA",
+    "name": "BRUNSWICK"
+  },
+  "9": {
+    "statecode": "GA",
+    "name": "CARROLLTON"
+  },
+  "10": {
+    "statecode": "GA",
+    "name": "CHAMBLEE"
+  },
+  "11": {
+    "statecode": "GA",
+    "name": "CLARKESVILLE"
+  },
+  "12": {
+    "statecode": "GA",
+    "name": "CLARKSTON"
+  },
+  "13": {
+    "statecode": "GA",
+    "name": "CLEVELAND"
+  },
+  "14": {
+    "statecode": "GA",
+    "name": "COLUMBUS"
+  },
+  "15": {
+    "statecode": "GA",
+    "name": "CONYERS"
+  },
+  "16": {
+    "statecode": "GA",
+    "name": "CUMMING"
+  },
+  "17": {
+    "statecode": "GA",
+    "name": "CUTHBERT"
+  },
+  "18": {
+    "statecode": "GA",
+    "name": "DAHLONEGA"
+  },
+  "19": {
+    "statecode": "GA",
+    "name": "DALTON"
+  },
+  "20": {
+    "statecode": "GA",
+    "name": "DECATUR"
+  },
+  "21": {
+    "statecode": "GA",
+    "name": "DEMOREST"
+  },
+  "22": {
+    "statecode": "GA",
+    "name": "DORAVILLE"
+  },
+  "23": {
+    "statecode": "GA",
+    "name": "DOUGLAS"
+  },
+  "24": {
+    "statecode": "GA",
+    "name": "DULUTH"
+  },
+  "25": {
+    "statecode": "GA",
+    "name": "EAST POINT"
+  },
+  "26": {
+    "statecode": "GA",
+    "name": "EVANS"
+  },
+  "27": {
+    "statecode": "GA",
+    "name": "FORT VALLEY"
+  },
+  "28": {
+    "statecode": "GA",
+    "name": "FRANKLIN SPRINGS"
+  },
+  "29": {
+    "statecode": "GA",
+    "name": "GAINESVILLE"
+  },
+  "30": {
+    "statecode": "GA",
+    "name": "GRIFFIN"
+  },
+  "31": {
+    "statecode": "GA",
+    "name": "HIRAM"
+  },
+  "32": {
+    "statecode": "GA",
+    "name": "KENNESAW"
+  },
+  "33": {
+    "statecode": "GA",
+    "name": "LA GRANGE"
+  },
+  "34": {
+    "statecode": "GA",
+    "name": "LAWRENCEVILLE"
+  },
+  "35": {
+    "statecode": "GA",
+    "name": "LILBURN"
+  },
+  "36": {
+    "statecode": "GA",
+    "name": "LITHIA  SPRINGS"
+  },
+  "37": {
+    "statecode": "GA",
+    "name": "LITHONIA"
+  },
+  "38": {
+    "statecode": "GA",
+    "name": "LOOKOUT MOUNTAIN"
+  },
+  "39": {
+    "statecode": "GA",
+    "name": "MACON"
+  },
+  "40": {
+    "statecode": "GA",
+    "name": "MARIETTA"
+  },
+  "41": {
+    "statecode": "GA",
+    "name": "MILLEDGEVILLE"
+  },
+  "42": {
+    "statecode": "GA",
+    "name": "MORROW"
+  },
+  "43": {
+    "statecode": "GA",
+    "name": "MOUNT BERRY"
+  },
+  "44": {
+    "statecode": "GA",
+    "name": "MOUNT VERNON"
+  },
+  "45": {
+    "statecode": "GA",
+    "name": "NORCROSS"
+  },
+  "46": {
+    "statecode": "GA",
+    "name": "OAKWOOD"
+  },
+  "47": {
+    "statecode": "GA",
+    "name": "ROME"
+  },
+  "48": {
+    "statecode": "GA",
+    "name": "ROSWELL"
+  },
+  "49": {
+    "statecode": "GA",
+    "name": "SANDERSVILLE"
+  },
+  "50": {
+    "statecode": "GA",
+    "name": "SANDY SPRINGS"
+  },
+  "51": {
+    "statecode": "GA",
+    "name": "SAVANNAH"
+  },
+  "52": {
+    "statecode": "GA",
+    "name": "SMYRNA"
+  },
+  "53": {
+    "statecode": "GA",
+    "name": "STATESBORO"
+  },
+  "54": {
+    "statecode": "GA",
+    "name": "STONE MOUNTAIN"
+  },
+  "55": {
+    "statecode": "GA",
+    "name": "SWAINSBORO"
+  },
+  "56": {
+    "statecode": "GA",
+    "name": "THOMASVILLE"
+  },
+  "57": {
+    "statecode": "GA",
+    "name": "TIFTON"
+  },
+  "58": {
+    "statecode": "GA",
+    "name": "TOCCOA FALLS"
+  },
+  "59": {
+    "statecode": "GA",
+    "name": "VALDOSTA"
+  },
+  "60": {
+    "statecode": "GA",
+    "name": "VIDALIA"
+  },
+  "61": {
+    "statecode": "GA",
+    "name": "WACO"
+  },
+  "62": {
+    "statecode": "GA",
+    "name": "WALESKA"
+  },
+  "63": {
+    "statecode": "GA",
+    "name": "WAYCROSS"
+  },
+  "64": {
+    "statecode": "GA",
+    "name": "YOUNG HARRIS"
+  }
+}

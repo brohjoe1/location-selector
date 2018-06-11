@@ -1,0 +1,258 @@
+[
+  {
+    "code": "ALB",
+    "name": "ALBANY"
+  },
+  {
+    "code": "AMR",
+    "name": "AMERICUS"
+  },
+  {
+    "code": "ATH",
+    "name": "ATHENS"
+  },
+  {
+    "code": "ATL",
+    "name": "ATLANTA"
+  },
+  {
+    "code": "AUG",
+    "name": "AUGUSTA"
+  },
+  {
+    "code": "BAI",
+    "name": "BAINBRIDGE"
+  },
+  {
+    "code": "BAR",
+    "city": "BARNESVILLE"
+  },
+  {
+    "code": "BRU",
+    "city": "BRUNSWICK"
+  },
+  {
+    "code": "CAR",
+    "city": "CARROLLTON"
+  },
+  {
+    "code": "CHA",
+    "city": "CHAMBLEE"
+  },
+  {
+    "code": "CLV",
+    "city": "CLARKESVILLE"
+  },
+  {
+    "code": "CLA",
+    "city": "CLARKSTON"
+  },
+  {
+    "code": "CLE",
+    "city": "CLEVELAND"
+  },
+  {
+    "code": "COL",
+    "city": "COLUMBUS"
+  },
+  {
+    "code": "COY",
+    "city": "CONYERS"
+  },
+  {
+    "code": "CUM",
+    "city": "CUMMING"
+  },
+  {
+    "code": "CUT",
+    "city": "CUTHBERT"
+  },
+  {
+    "code": "DAH",
+    "city": "DAHLONEGA"
+  },
+  {
+    "code": "DAL",
+    "city": "DALTON"
+  },
+  {
+    "code": "DEC",
+    "city": "DECATUR"
+  },
+  {
+    "code": "DEM",
+    "city": "DEMOREST"
+  },
+  {
+    "code": "DOR",
+    "city": "DORAVILLE"
+  },
+  {
+    "code": "DOU",
+    "city": "DOUGLAS"
+  },
+  {
+    "code": "DUL",
+    "city": "DULUTH"
+  },
+  {
+    "code": "EAS",
+    "city": "EAST POINT"
+  },
+  {
+    "code": "EVA",
+    "city": "EVANS"
+  },
+  {
+    "code": "FTV",
+    "city": "FORT VALLEY"
+  },
+  {
+    "code": "FRW",
+    "city": "FRANKLIN SPRINGS"
+  },
+  {
+    "code": "GAI",
+    "city": "GAINESVILLE"
+  },
+  {
+    "code": "GRI",
+    "city": "GRIFFIN"
+  },
+  {
+    "code": "HIR",
+    "city": "HIRAM"
+  },
+  {
+    "code": "KEN",
+    "city": "KENNESAW"
+  },
+  {
+    "code": "LAG",
+    "city": "LA GRANGE"
+  },
+  {
+    "code": "LAW",
+    "city": "LAWRENCEVILLE"
+  },
+  {
+    "code": "LIL",
+    "city": "LILBURN"
+  },
+  {
+    "code": "LIT",
+    "city": "LITHIA  SPRINGS"
+  },
+  {
+    "code": "LHA",
+    "city": "LITHONIA"
+  },
+  {
+    "code": "LOM",
+    "city": "LOOKOUT MOUNTAIN"
+  },
+  {
+    "code": "MAC",
+    "city": "MACON"
+  },
+  {
+    "code": "MAR",
+    "city": "MARIETTA"
+  },
+  {
+    "code": "MIL",
+    "city": "MILLEDGEVILLE"
+  },
+  {
+    "code": "MOR",
+    "city": "MORROW"
+  },
+  {
+    "code": "MTB",
+    "city": "MOUNT BERRY"
+  },
+  {
+    "code": "MTV",
+    "city": "MOUNT VERNON"
+  },
+  {
+    "code": "NOR",
+    "city": "NORCROSS"
+  },
+  {
+    "code": "GA",
+    "city": "OAKWOOD"
+  },
+  {
+    "code": "ROM",
+    "city": "ROME"
+  },
+  {
+    "code": "ROS",
+    "city": "ROSWELL"
+  },
+  {
+    "code": "SAN",
+    "city": "SANDERSVILLE"
+  },
+  {
+    "code": "SDY",
+    "city": "SANDY SPRINGS"
+  },
+  {
+    "code": "SAV",
+    "city": "SAVANNAH"
+  },
+  {
+    "code": "SMY",
+    "city": "SMYRNA"
+  },
+  {
+    "code": "STA",
+    "city": "STATESBORO"
+  },
+  {
+    "code": "STM",
+    "city": "STONE MOUNTAIN"
+  },
+  {
+    "code": "SWA",
+    "city": "SWAINSBORO"
+  },
+  {
+    "code": "THM",
+    "city": "THOMASVILLE"
+  },
+  {
+    "code": "TIF",
+    "city": "TIFTON"
+  },
+  {
+    "code": "TCF",
+    "city": "TOCCOA FALLS"
+  },
+  {
+    "code": "VAL",
+    "city": "VALDOSTA"
+  },
+  {
+    "code": "VID",
+    "city": "VIDALIA"
+  },
+  {
+    "code": "WAC",
+    "city": "WACO"
+  },
+  {
+    "code": "WAL",
+    "city": "WALESKA"
+  },
+  {
+    "code": "WAY",
+    "city": "WAYCROSS"
+  },
+  {
+    "code": "YNG",
+    "city": "YOUNG HARRIS"
+  }
+]

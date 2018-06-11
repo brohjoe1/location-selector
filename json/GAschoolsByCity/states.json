@@ -1,0 +1,54 @@
+[
+  {
+    "statecode": "AK",
+    "statename": "Alaska"
+  },
+  {
+    "statecode": "AL",
+    "statename": "Alabama"
+  },
+  {
+    "statecode": "AR",
+    "statename": "Arkansas"
+  },
+  {
+    "statecode": "AZ",
+    "statename": "Arizona"
+  },
+  {
+    "statecode": "CA",
+    "statename": "California"
+  },
+  {
+    "statecode": "CO",
+    "statename": "Colorado"
+  },
+  {
+    "statecode": "CT",
+    "statename": "Connecticut"
+  },
+  {
+    "statecode": "DC",
+    "statename": "Washington, DC"
+  },
+  {
+    "statecode": "DE",
+    "statename": "Deleware"
+  },
+  {
+    "statecode": "FL",
+    "statename": "Florida"
+  },
+  {
+    "statecode": "GA",
+    "statename": "Georgia"
+  },
+  {
+    "statecode": "GU",
+    "statename": "Guam"
+  },
+  {
+    "statecode": "HI",
+    "statename": "Hawaii"
+  }
+]

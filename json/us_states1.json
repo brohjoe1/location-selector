@@ -1,0 +1,234 @@
+{
+  "0": {
+    "code": "select",
+    "name": "Select State"
+  },
+  "1": {
+    "code": "AL",
+    "name": "Alabama"
+  },
+  "2": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "3": {
+    "code": "AR",
+    "name": "Arkansas"
+  },
+  "4": {
+    "code": "AS",
+    "name": "American Samoa"
+  },
+  "5": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "6": {
+    "code": "CA",
+    "name": "California"
+  },
+  "7": {
+    "code": "CO",
+    "name": "Colorado"
+  },
+  "8": {
+    "code": "CT",
+    "name": "Connecticut"
+  },
+  "9": {
+    "code": "DC",
+    "name": "District of Columbia"
+  },
+  "10": {
+    "code": "DE",
+    "name": "Delaware"
+  },
+  "11": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "12": {
+    "code": "FM",
+    "name": "Federated States of Micronesia"
+  },
+  "13": {
+    "code": "GA",
+    "name": "Georgia"
+  },
+  "14": {
+    "code": "GU",
+    "name": "Guam"
+  },
+  "15": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "16": {
+    "code": "IA",
+    "name": "Iowa"
+  },
+  "17": {
+    "code": "ID",
+    "name": "Idaho"
+  },
+  "18": {
+    "code": "IL",
+    "name": "Illinois"
+  },
+  "19": {
+    "code": "IN",
+    "name": "Indiana"
+  },
+  "20": {
+    "code": "KS",
+    "name": "Kansas"
+  },
+  "21": {
+    "code": "KY",
+    "name": "Kentucky"
+  },
+  "22": {
+    "code": "LA",
+    "name": "Louisiana"
+  },
+  "23": {
+    "code": "MA",
+    "name": "Massachusetts"
+  },
+  "24": {
+    "code": "MD",
+    "name": "Maryland"
+  },
+  "25": {
+    "code": "ME",
+    "name": "Maine"
+  },
+  "26": {
+    "code": "MH",
+    "name": "Marshall Islands"
+  },
+  "27": {
+    "code": "MI",
+    "name": "Michigan"
+  },
+  "28": {
+    "code": "MN",
+    "name": "Minnesota"
+  },
+  "29": {
+    "code": "MO",
+    "name": "Missouri"
+  },
+  "30": {
+    "code": "MP",
+    "name": "Northern Marianas Islands"
+  },
+  "31": {
+    "code": "MS",
+    "name": "Mississippi"
+  },
+  "32": {
+    "code": "MT",
+    "name": "Montana"
+  },
+  "33": {
+    "code": "NC",
+    "name": "North Carolina"
+  },
+  "34": {
+    "code": "ND",
+    "name": "North Dakota"
+  },
+  "35": {
+    "code": "NE",
+    "name": "Nebraska"
+  },
+  "36": {
+    "code": "NH",
+    "name": "New Hampshire"
+  },
+  "37": {
+    "code": "NV",
+    "name": "Nevada"
+  },
+  "38": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "39": {
+    "code": "OH",
+    "name": "Ohio"
+  },
+  "40": {
+    "code": "OK",
+    "name": "Oklahoma"
+  },
+  "41": {
+    "code": "OR",
+    "name": "Oregon"
+  },
+  "42": {
+    "code": "PA",
+    "name": "Pennsylvania"
+  },
+  "43": {
+    "code": "PR",
+    "name": "Puerto Rico"
+  },
+  "44": {
+    "code": "PW",
+    "name": "Palau Island"
+  },
+  "45": {
+    "code": "RI",
+    "name": "Rhode Island"
+  },
+  "46": {
+    "code": "SC",
+    "name": "South Carolina"
+  },
+  "47": {
+    "code": "SD",
+    "name": "South Dakota"
+  },
+  "48": {
+    "code": "TN",
+    "name": "Tennessee"
+  },
+  "49": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "50": {
+    "code": "UT",
+    "name": "Utah"
+  },
+  "51": {
+    "code": "VA",
+    "name": "Virginia"
+  },
+  "52": {
+    "code": "VI",
+    "name": "Virgin Islands"
+  },
+  "53": {
+    "code": "VT",
+    "name": "Vermont"
+  },
+  "54": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "55": {
+    "code": "WI",
+    "name": "Wisconsin"
+  },
+  "56": {
+    "code": "WV",
+    "name": "West Virginia"
+  },
+  "57": {
+    "code": "WY",
+    "name": "Wyoming"
+  }
+}

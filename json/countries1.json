@@ -1,0 +1,158 @@
+{
+  "0": {
+    "code": "select",
+    "name": "Select Country"
+  },
+  "1": {
+    "code": "US",
+    "name": "North America"
+  },
+  "2": {
+    "code": "AG",
+    "name": "Antigua"
+  },
+  "3": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "4": {
+    "code": "AT",
+    "name": "Austria"
+  },
+  "5": {
+    "code": "BG",
+    "name": "Bulgaria"
+  },
+  "6": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "7": {
+    "code": "CN",
+    "name": "China"
+  },
+  "8": {
+    "code": "CR",
+    "name": "Costa Rica"
+  },
+  "9": {
+    "code": "CZ",
+    "name": "Czech Republic"
+  },
+  "10": {
+    "code": "DK",
+    "name": "Denmark"
+  },
+  "11": {
+    "code": "DO",
+    "name": "Dominican Republic"
+  },
+  "12": {
+    "code": "EG",
+    "name": "Egypt"
+  },
+  "13": {
+    "code": "EN",
+    "name": "England"
+  },
+  "14": {
+    "code": "FR",
+    "name": "France"
+  },
+  "15": {
+    "code": "DE",
+    "name": "Germany"
+  },
+  "16": {
+    "code": "GR",
+    "name": "Greece"
+  },
+  "17": {
+    "code": "GD",
+    "name": "Grenada"
+  },
+  "18": {
+    "code": "HK",
+    "name": "Hong Kong"
+  },
+  "19": {
+    "code": "HU",
+    "name": "Hungary"
+  },
+  "20": {
+    "code": "IE",
+    "name": "Ireland"
+  },
+  "21": {
+    "code": "IL",
+    "name": "Israel"
+  },
+  "22": {
+    "code": "IT",
+    "name": "Italy"
+  },
+  "23": {
+    "code": "LB",
+    "name": "Lebanon"
+  },
+  "24": {
+    "code": "MX",
+    "name": "Mexico"
+  },
+  "25": {
+    "code": "NZ",
+    "name": "New Zealand"
+  },
+  "26": {
+    "code": "NI",
+    "name": "Northern Ireland"
+  },
+  "27": {
+    "code": "PL",
+    "name": "Poland"
+  },
+  "28": {
+    "code": "RU",
+    "name": "Russia"
+  },
+  "29": {
+    "code": "SB",
+    "name": "Saba"
+  },
+  "30": {
+    "code": "ST",
+    "name": "Scotland"
+  },
+  "31": {
+    "code": "ZA",
+    "name": "South Africa"
+  },
+  "32": {
+    "code": "ES",
+    "name": "Spain"
+  },
+  "33": {
+    "code": "KV",
+    "name": "St Kitts-Nevis"
+  },
+  "34": {
+    "code": "MR",
+    "name": "St. Maartin"
+  },
+  "35": {
+    "code": "SE",
+    "name": "Sweden"
+  },
+  "36": {
+    "code": "CH",
+    "name": "Switzerland"
+  },
+  "37": {
+    "code": "NL",
+    "name": "The Netherlands"
+  },
+  "38": {
+    "code": "WS",
+    "name": "Wales"
+  }
+}

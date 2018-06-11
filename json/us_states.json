@@ -1,0 +1,226 @@
+[
+  {
+    "stateCode": "AL",
+    "name": "Alabama"
+  },
+  {
+    "stateCode": "AR",
+    "name": "Arkansas"
+  },
+  {
+    "stateCode": "AS",
+    "name": "American Samoa"
+  },
+  {
+    "stateCode": "AZ",
+    "name": "Arizona"
+  },
+  {
+    "stateCode": "CA",
+    "name": "California"
+  },
+  {
+    "stateCode": "CO",
+    "name": "Colorado"
+  },
+  {
+    "stateCode": "CT",
+    "name": "Connecticut"
+  },
+  {
+    "stateCode": "DC",
+    "name": "District of Columbia"
+  },
+  {
+    "stateCode": "DE",
+    "name": "Delaware"
+  },
+  {
+    "stateCode": "FL",
+    "name": "Florida"
+  },
+  {
+    "stateCode": "FM",
+    "name": "Federated States of Micronesia"
+  },
+  {
+    "stateCode": "GA",
+    "name": "Georgia"
+  },
+  {
+    "stateCode": "GU",
+    "name": "Guam"
+  },
+  {
+    "stateCode": "HI",
+    "name": "Hawaii"
+  },
+  {
+    "stateCode": "IA",
+    "name": "Iowa"
+  },
+  {
+    "stateCode": "ID",
+    "name": "Idaho"
+  },
+  {
+    "stateCode": "IL",
+    "name": "Illinois"
+  },
+  {
+    "stateCode": "IN",
+    "name": "Indiana"
+  },
+  {
+    "stateCode": "KS",
+    "name": "Kansas"
+  },
+  {
+    "stateCode": "KY",
+    "name": "Kentucky"
+  },
+  {
+    "stateCode": "LA",
+    "name": "Louisiana"
+  },
+  {
+    "stateCode": "MA",
+    "name": "Massachusetts"
+  },
+  {
+    "stateCode": "MD",
+    "name": "Maryland"
+  },
+  {
+    "stateCode": "ME",
+    "name": "Maine"
+  },
+  {
+    "stateCode": "MH",
+    "name": "Marshall Islands"
+  },
+  {
+    "stateCode": "MI",
+    "name": "Michigan"
+  },
+  {
+    "stateCode": "MN",
+    "name": "Minnesota"
+  },
+  {
+    "stateCode": "MO",
+    "name": "Missouri"
+  },
+  {
+    "stateCode": "MP",
+    "name": "Northern Marianas Islands"
+  },
+  {
+    "stateCode": "MS",
+    "name": "Mississippi"
+  },
+  {
+    "stateCode": "MT",
+    "name": "Montana"
+  },
+  {
+    "stateCode": "NC",
+    "name": "North Carolina"
+  },
+  {
+    "stateCode": "ND",
+    "name": "North Dakota"
+  },
+  {
+    "stateCode": "NE",
+    "name": "Nebraska"
+  },
+  {
+    "stateCode": "NH",
+    "name": "New Hampshire"
+  },
+  {
+    "stateCode": "NV",
+    "name": "Nevada"
+  },
+  {
+    "stateCode": "NY",
+    "name": "New York"
+  },
+  {
+    "stateCode": "OH",
+    "name": "Ohio"
+  },
+  {
+    "stateCode": "OK",
+    "name": "Oklahoma"
+  },
+  {
+    "stateCode": "OR",
+    "name": "Oregon"
+  },
+  {
+    "stateCode": "PA",
+    "name": "Pennsylvania"
+  },
+  {
+    "stateCode": "PR",
+    "name": "Puerto Rico"
+  },
+  {
+    "stateCode": "PW",
+    "name": "Palau Island"
+  },
+  {
+    "stateCode": "RI",
+    "name": "Rhode Island"
+  },
+  {
+    "stateCode": "SC",
+    "name": "South Carolina"
+  },
+  {
+    "stateCode": "SD",
+    "name": "South Dakota"
+  },
+  {
+    "stateCode": "TN",
+    "name": "Tennessee"
+  },
+  {
+    "stateCode": "TX",
+    "name": "Texas"
+  },
+  {
+    "stateCode": "UT",
+    "name": "Utah"
+  },
+  {
+    "stateCode": "VA",
+    "name": "Virginia"
+  },
+  {
+    "stateCode": "VI",
+    "name": "Virgin Islands"
+  },
+  {
+    "stateCode": "VT",
+    "name": "Vermont"
+  },
+  {
+    "stateCode": "WA",
+    "name": "Washington"
+  },
+  {
+    "stateCode": "WI",
+    "name": "Wisconsin"
+  },
+  {
+    "stateCode": "WV",
+    "name": "West Virginia"
+  },
+  {
+    "stateCode": "WY",
+    "name": "Wyoming"
+  }
+]

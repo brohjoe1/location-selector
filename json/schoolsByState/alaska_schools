@@ -1,0 +1,72 @@
+{
+  "1": {
+    "SchoolCode": 14325,
+    "SchoolName": "ALASKA BIBLE COLLEGE",
+    "Address": "BOX 289 COLLEGE ROAD",
+    "City": "GLENNALLEN",
+    "StateCode": "AK"
+  },
+  "2": {
+    "SchoolCode": 17066,
+    "SchoolName": "ALASKA CAREER COLLEGE",
+    "Address": "1415 E. TUDOR ROAD",
+    "City": "ANCHORAGE",
+    "StateCode": "AK"
+  },
+  "3": {
+    "SchoolCode": 41386,
+    "SchoolName": "ALASKA CHRISTIAN COLLEGE",
+    "Address": "35109 ROYAL PLACE",
+    "City": "SOLDOTNA",
+    "StateCode": "AK"
+  },
+  "4": {
+    "SchoolCode": 1061,
+    "SchoolName": "ALASKA PACIFIC UNIVERSITY",
+    "Address": "4101 UNIVERSITY DRIVE",
+    "City": "ANCHORAGE",
+    "StateCode": "AK"
+  },
+  "5": {
+    "SchoolCode": 31603,
+    "SchoolName": "AVTEC - ALASKA'S INSTITUTE OF TECHNOLOGY",
+    "Address": "809 SECOND AVENUE",
+    "City": "SEWARD",
+    "StateCode": "AK"
+  },
+  "6": {
+    "SchoolCode": 17377,
+    "SchoolName": "CHARTER COLLEGE",
+    "Address": "2221 E NORTHERN LIGHTS BLVD",
+    "City": "ANCHORAGE",
+    "StateCode": "AK"
+  },
+  "7": {
+    "SchoolCode": 34613,
+    "SchoolName": "ILISAGVIK COLLEGE",
+    "Address": "PO BOX 749",
+    "City": "BARROW",
+    "StateCode": "AK"
+  },
+  "8": {
+    "SchoolCode": 11462,
+    "SchoolName": "UNIVERSITY OF ALASKA ANCHORAGE",
+    "Address": "PO BOX 141608",
+    "City": "ANCHORAGE",
+    "StateCode": "AK"
+  },
+  "9": {
+    "SchoolCode": 1063,
+    "SchoolName": "UNIVERSITY OF ALASKA FAIRBANKS",
+    "Address": "3RD FLOOR SIGNER'S HALL",
+    "City": "FAIRBANKS",
+    "StateCode": "AK"
+  },
+  "10": {
+    "SchoolCode": 1065,
+    "SchoolName": "UNIVERSITY OF ALASKA SOUTHEAST",
+    "Address": "11120 GLACIER HIGHWAY",
+    "City": "JUNEAU",
+    "StateCode": "AK"
+  }
+}

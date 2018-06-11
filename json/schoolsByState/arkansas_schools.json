@@ -1,0 +1,604 @@
+{
+  "1": {
+    "SchoolCode": "042418",
+    "SchoolName": "ACADEMY OF PROFESSIONAL COSMETOLOGY",
+    "Address": "2600 WEST HUDSON ROAD SUITE A",
+    "City": "ROGERS",
+    "StateCode": "AR"
+  },
+  "2": {
+    "SchoolCode": "001087",
+    "SchoolName": "ARKANSAS BAPTIST COLLEGE",
+    "Address": "1621 DR. MARTIN L. KING DRIVE",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "3": {
+    "SchoolCode": "039973",
+    "SchoolName": "ARKANSAS BEAUTY COLLEGE",
+    "Address": "109 NORTH COMMERCE AVENUE",
+    "City": "RUSSELLVILLE",
+    "StateCode": "AR"
+  },
+  "4": {
+    "SchoolCode": "030051",
+    "SchoolName": "ARKANSAS BEAUTY SCHOOL",
+    "Address": "5108 BASELINE",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "5": {
+    "SchoolCode": "030234",
+    "SchoolName": "ARKANSAS COLLEGE OF BARBERING",
+    "Address": "200 WASHINGTON AVE",
+    "City": "NORTH LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "6": {
+    "SchoolCode": "042568",
+    "SchoolName": "ARKANSAS COLLEGES OF HEALTH EDUCATION",
+    "Address": "7000 CHAD COLLEY BOULEVARD",
+    "City": "FORT SMITH",
+    "StateCode": "AR"
+  },
+  "7": {
+    "SchoolCode": "012860",
+    "SchoolName": "ARKANSAS NORTHEASTERN COLLEGE",
+    "Address": "POST OFFICE BOX 1109",
+    "City": "BLYTHEVILLE",
+    "StateCode": "AR"
+  },
+  "8": {
+    "SchoolCode": "001090",
+    "SchoolName": "ARKANSAS STATE UNIVERSITY",
+    "Address": "2105 AGGIE ROAD",
+    "City": "JONESBORO",
+    "StateCode": "AR"
+  },
+  "9": {
+    "SchoolCode": "001091",
+    "SchoolName": "ARKANSAS STATE UNIVERSITY - BEEBE",
+    "Address": "1000 IOWA STREET",
+    "City": "BEEBE",
+    "StateCode": "AR"
+  },
+  "10": {
+    "SchoolCode": "042034",
+    "SchoolName": "ARKANSAS STATE UNIVERSITY - NEWPORT",
+    "Address": "7648 VICTORY BOULEVARD",
+    "City": "NEWPORT",
+    "StateCode": "AR"
+  },
+  "11": {
+    "SchoolCode": "015862",
+    "SchoolName": "ARKANSAS STATE UNIVERSITY MID-SOUTH",
+    "Address": "2000 WEST BROADWAY",
+    "City": "WEST MEMPHIS",
+    "StateCode": "AR"
+  },
+  "12": {
+    "SchoolCode": "042544",
+    "SchoolName": "ARKANSAS STATE UNIVERSITY-MOUNTAIN HOME",
+    "Address": "1600 SOUTH COLLEGE STREET",
+    "City": "MOUNTAIN HOME",
+    "StateCode": "AR"
+  },
+  "13": {
+    "SchoolCode": "001089",
+    "SchoolName": "ARKANSAS TECH UNIVERSITY",
+    "Address": "HIGHWAY 7 NORTH",
+    "City": "RUSSELLVILLE",
+    "StateCode": "AR"
+  },
+  "14": {
+    "SchoolCode": "042741",
+    "SchoolName": "ARKANSAS WELDING ACADEMY",
+    "Address": "1920 NORTH REDMOND ROAD",
+    "City": "JACKSONVILLE",
+    "StateCode": "AR"
+  },
+  "15": {
+    "SchoolCode": "015099",
+    "SchoolName": "ARTHUR'S BEAUTY COLLEGE",
+    "Address": "2000 NORTH B STREET",
+    "City": "FORT SMITH",
+    "StateCode": "AR"
+  },
+  "16": {
+    "SchoolCode": "017020",
+    "SchoolName": "ARTHUR'S BEAUTY COLLEGE",
+    "Address": "2600 JOHN HARDEN DR",
+    "City": "JACKSONVILLE",
+    "StateCode": "AR"
+  },
+  "17": {
+    "SchoolCode": "031052",
+    "SchoolName": "BAPTIST HEALTH SCHOOLS LITTLE ROCK",
+    "Address": "11900 COLONEL GLENN STE 1000",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "18": {
+    "SchoolCode": "042389",
+    "SchoolName": "BEAUTY SCHOOL, (THE)",
+    "Address": "1058 HIGHLAND CIRCLE",
+    "City": "MOUNTAIN HOME",
+    "StateCode": "AR"
+  },
+  "19": {
+    "SchoolCode": "011948",
+    "SchoolName": "BLACK RIVER TECHNICAL COLLEGE",
+    "Address": "BOX 468",
+    "City": "POCAHONTAS",
+    "StateCode": "AR"
+  },
+  "20": {
+    "SchoolCode": "E01270",
+    "SchoolName": "BRYAN UNIVERSITY - ROGERS",
+    "Address": "3704 WEST WALNUT",
+    "City": "ROGERS",
+    "StateCode": "AR"
+  },
+  "21": {
+    "SchoolCode": "042628",
+    "SchoolName": "C. ALEXANDER SCHOOL OF COSMETOLOGY",
+    "Address": "3700 SOUTH UNIVERSITY AVENUE",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "22": {
+    "SchoolCode": "016596",
+    "SchoolName": "CAREER ACADEMY OF HAIR DESIGN",
+    "Address": "346 EAST ROBINSON AVE",
+    "City": "SPRINGDALE",
+    "StateCode": "AR"
+  },
+  "23": {
+    "SchoolCode": "E02161",
+    "SchoolName": "CAREER ACADEMY OF HAIR DESIGN - FAYETTEV",
+    "Address": "4310 W MARTIN LUTHER KING BLVD",
+    "City": "FAYETTEVILLE",
+    "StateCode": "AR"
+  },
+  "24": {
+    "SchoolCode": "E40413",
+    "SchoolName": "CAREER ACADEMY OF HAIR DESIGN - FORT SMI",
+    "Address": "1000 PHOENIX AVENUE",
+    "City": "FORT SMITH",
+    "StateCode": "AR"
+  },
+  "25": {
+    "SchoolCode": "E01654",
+    "SchoolName": "CAREER ACADEMY OF HAIR DESIGN - ROGERS",
+    "Address": "2100 WEST HUDSON ROAD",
+    "City": "ROGERS",
+    "StateCode": "AR"
+  },
+  "26": {
+    "SchoolCode": "E01766",
+    "SchoolName": "CAREER ACADEMY OF HAIR DESIGN - SILOAM",
+    "Address": "821 SOUTH MOUNT OLIVE STREET",
+    "City": "SILOAM SPRINGS",
+    "StateCode": "AR"
+  },
+  "27": {
+    "SchoolCode": "001093",
+    "SchoolName": "CENTRAL BAPTIST COLLEGE",
+    "Address": "1501 COLLEGE AVENUE",
+    "City": "CONWAY",
+    "StateCode": "AR"
+  },
+  "28": {
+    "SchoolCode": "009976",
+    "SchoolName": "COLLEGE OF THE OUACHITAS",
+    "Address": "ONE COLLEGE DRIVE",
+    "City": "MALVERN",
+    "StateCode": "AR"
+  },
+  "29": {
+    "SchoolCode": "012432",
+    "SchoolName": "COSSATOT COMMUNITY COLLEGE",
+    "Address": "183 COLLEGE DRIVE",
+    "City": "DE QUEEN",
+    "StateCode": "AR"
+  },
+  "30": {
+    "SchoolCode": "039123",
+    "SchoolName": "CROSSETT SCHOOL OF COSMETOLOGY",
+    "Address": "121 PINE STREET",
+    "City": "CROSSETT",
+    "StateCode": "AR"
+  },
+  "31": {
+    "SchoolCode": "001095",
+    "SchoolName": "CROWLEYS RIDGE COLLEGE",
+    "Address": "100 COLLEGE DRIVE",
+    "City": "PARAGOULD",
+    "StateCode": "AR"
+  },
+  "32": {
+    "SchoolCode": "013583",
+    "SchoolName": "CROWLEYS RIDGE TECHNICAL INSTITUTE",
+    "Address": "1620 NEWCASTLE ROAD",
+    "City": "FORREST CITY",
+    "StateCode": "AR"
+  },
+  "33": {
+    "SchoolCode": "042701",
+    "SchoolName": "DELTA DESIGNS COSMETOLOGY SCHOOL",
+    "Address": "671 ADDISON DRIVE",
+    "City": "WYNNE",
+    "StateCode": "AR"
+  },
+  "34": {
+    "SchoolCode": "042200",
+    "SchoolName": "DESIGNER BARBER & STYLIST SCHOOL",
+    "Address": "2409 SOUTH 56TH STREET",
+    "City": "FT SMITH",
+    "StateCode": "AR"
+  },
+  "35": {
+    "SchoolCode": "012260",
+    "SchoolName": "EAST ARKANSAS COMMUNITY COLLEGE",
+    "Address": "1700 NEWCASTLE ROAD",
+    "City": "FORREST CITY",
+    "StateCode": "AR"
+  },
+  "36": {
+    "SchoolCode": "016041",
+    "SchoolName": "EASTERN COLLEGE OF HEALTH VOCATIONS",
+    "Address": "200 SOUTH UNIVERSITY AVENUE",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "37": {
+    "SchoolCode": "038553",
+    "SchoolName": "ECCLESIA COLLEGE",
+    "Address": "9653 NATIONS DRIVE",
+    "City": "SPRINGDALE",
+    "StateCode": "AR"
+  },
+  "38": {
+    "SchoolCode": "001097",
+    "SchoolName": "HARDING UNIVERSITY",
+    "Address": "900 EAST CENTER",
+    "City": "SEARCY",
+    "StateCode": "AR"
+  },
+  "39": {
+    "SchoolCode": "001098",
+    "SchoolName": "HENDERSON STATE UNIVERSITY",
+    "Address": "1100 HENDERSON STREET",
+    "City": "ARKADELPHIA",
+    "StateCode": "AR"
+  },
+  "40": {
+    "SchoolCode": "001099",
+    "SchoolName": "HENDRIX COLLEGE",
+    "Address": "1600 WASHINGTON AVE",
+    "City": "CONWAY",
+    "StateCode": "AR"
+  },
+  "41": {
+    "SchoolCode": "E01725",
+    "SchoolName": "HERITAGE COLLEGE - LITTLE ROCK",
+    "Address": "1309 OLD FORGE ROAD",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "42": {
+    "SchoolCode": "030071",
+    "SchoolName": "HOT SPRINGS BEAUTY COLLEGE",
+    "Address": "100 CONES RD",
+    "City": "HOT SPRINGS",
+    "StateCode": "AR"
+  },
+  "43": {
+    "SchoolCode": "031249",
+    "SchoolName": "IMAGINE -  PAUL MITCHELL PARTNER SCHOOL",
+    "Address": "4201 EAST MCCAIN BOULEVARD",
+    "City": "NORTH LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "44": {
+    "SchoolCode": "E00786",
+    "SchoolName": "ITT TECHNICAL INSTITUTE",
+    "Address": "12200 WESTHAVEN DRIVE",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "45": {
+    "SchoolCode": "016498",
+    "SchoolName": "JEFFERSON SCHOOL OF NURSING",
+    "Address": "1600 WEST 40TH",
+    "City": "PINE BLUFF",
+    "StateCode": "AR"
+  },
+  "46": {
+    "SchoolCode": "001100",
+    "SchoolName": "JOHN BROWN UNIVERSITY",
+    "Address": "2000 WEST UNIVERSITY STREET",
+    "City": "SILOAM SPRINGS",
+    "StateCode": "AR"
+  },
+  "47": {
+    "SchoolCode": "001088",
+    "SchoolName": "LYON COLLEGE",
+    "Address": "2300 HIGHLAND ROAD",
+    "City": "BATESVILLE",
+    "StateCode": "AR"
+  },
+  "48": {
+    "SchoolCode": "010741",
+    "SchoolName": "MELLIE'S BEAUTY COLLEGE",
+    "Address": "311 SOUTH 16 STREET",
+    "City": "FORT SMITH",
+    "StateCode": "AR"
+  },
+  "49": {
+    "SchoolCode": "012105",
+    "SchoolName": "NATIONAL PARK COMMUNITY COLLEGE",
+    "Address": "101 COLLEGE DR",
+    "City": "HOT SPRINGS",
+    "StateCode": "AR"
+  },
+  "50": {
+    "SchoolCode": "042476",
+    "SchoolName": "NEW BEGINNINGS BEAUTY ACADEMY",
+    "Address": "1609 WEST 26TH STREET",
+    "City": "PINE BLUFF",
+    "StateCode": "AR"
+  },
+  "51": {
+    "SchoolCode": "016053",
+    "SchoolName": "NEW TYLER BARBER COLLEGE INC",
+    "Address": "1221 EAST 7TH STREET",
+    "City": "NORTH LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "52": {
+    "SchoolCode": "012261",
+    "SchoolName": "NORTH ARKANSAS COLLEGE",
+    "Address": "1515 PIONEER DRIVE",
+    "City": "HARRISON",
+    "StateCode": "AR"
+  },
+  "53": {
+    "SchoolCode": "042724",
+    "SchoolName": "NORTHERN TECHNICAL COLLEGE",
+    "Address": "2215 EAST HARDING",
+    "City": "PINE BLUFF",
+    "StateCode": "AR"
+  },
+  "54": {
+    "SchoolCode": "030633",
+    "SchoolName": "NORTHWEST ARKANSAS COMMUNITY COLLEG",
+    "Address": "ONE COLLEGE DRIVE",
+    "City": "BENTONVILLE",
+    "StateCode": "AR"
+  },
+  "55": {
+    "SchoolCode": "014044",
+    "SchoolName": "NORTHWEST TECHNICAL INSTITUTE",
+    "Address": "709 S. OLD MISSOURI RD.",
+    "City": "SPRINGDALE",
+    "StateCode": "AR"
+  },
+  "56": {
+    "SchoolCode": "001102",
+    "SchoolName": "OUACHITA BAPTIST UNIVERSITY",
+    "Address": "OBU BOX 3774 410 OUACHITA STREET",
+    "City": "ARKADELPHIA",
+    "StateCode": "AR"
+  },
+  "57": {
+    "SchoolCode": "013217",
+    "SchoolName": "OZARKA COLLEGE",
+    "Address": "218 COLLEGE DRIVE",
+    "City": "MELBOURNE",
+    "StateCode": "AR"
+  },
+  "58": {
+    "SchoolCode": "008070",
+    "SchoolName": "PAUL MITCHELL THE SCHOOL ARKANSAS",
+    "Address": "2167 WEST MARTIN LUTHER KING",
+    "City": "FAYETTEVILLE",
+    "StateCode": "AR"
+  },
+  "59": {
+    "SchoolCode": "001103",
+    "SchoolName": "PHILANDER SMITH COLLEGE",
+    "Address": "900 WEST DAISY GASTON BATES DRIVE",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "60": {
+    "SchoolCode": "001104",
+    "SchoolName": "PHILLIPS COUNTY COMMUNITY COLLEGE",
+    "Address": "POST OFFICE BOX 785",
+    "City": "HELENA",
+    "StateCode": "AR"
+  },
+  "61": {
+    "SchoolCode": "015585",
+    "SchoolName": "PROFESSIONAL COSMETOLOGY EDUC CTR",
+    "Address": "2027 NORTH WEST AVENUE",
+    "City": "EL DORADO",
+    "StateCode": "AR"
+  },
+  "62": {
+    "SchoolCode": "014167",
+    "SchoolName": "PULASKI TECHNICAL COLLEGE",
+    "Address": "3000 WEST SCENIC DRIVE",
+    "City": "NORTH LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "63": {
+    "SchoolCode": "012435",
+    "SchoolName": "RICH MOUNTAIN COMMUNITY COLLEGE",
+    "Address": "1100 COLLEGE DRIVE",
+    "City": "MENA",
+    "StateCode": "AR"
+  },
+  "64": {
+    "SchoolCode": "042419",
+    "SchoolName": "RIVER VALLEY SCHOOL OF MASSAGE",
+    "Address": "2003 EAST PARKWAY DRIVE",
+    "City": "RUSSELLVILLE",
+    "StateCode": "AR"
+  },
+  "65": {
+    "SchoolCode": "041834",
+    "SchoolName": "SALON PROFESSIONAL ACADEMY (THE)",
+    "Address": "4619 JOHN F KENNEDY BOULEVARD",
+    "City": "NORTH LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "66": {
+    "SchoolCode": "017262",
+    "SchoolName": "SEARCY BEAUTY COLLEGE",
+    "Address": "1004 S MAIN",
+    "City": "SEARCY",
+    "StateCode": "AR"
+  },
+  "67": {
+    "SchoolCode": "014893",
+    "SchoolName": "SEARK COLLEGE",
+    "Address": "1900 HAZEL ST",
+    "City": "PINE BLUFF",
+    "StateCode": "AR"
+  },
+  "68": {
+    "SchoolCode": "001105",
+    "SchoolName": "SHORTER COLLEGE",
+    "Address": "604 LOCUST STREET",
+    "City": "NORTH LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "69": {
+    "SchoolCode": "013858",
+    "SchoolName": "SOUTH ARKANSAS COMMUNITY COLLEGE",
+    "Address": "300 SOUTH WEST AVENUE",
+    "City": "EL DORADO",
+    "StateCode": "AR"
+  },
+  "70": {
+    "SchoolCode": "001107",
+    "SchoolName": "SOUTHERN ARKANSAS UNIVERSITY",
+    "Address": "100 EAST UNIV, PO BOX 9344",
+    "City": "MAGNOLIA",
+    "StateCode": "AR"
+  },
+  "71": {
+    "SchoolCode": "007738",
+    "SchoolName": "SOUTHERN ARKANSAS UNIVERSITY TECH",
+    "Address": "6415 SPELLMAN ROAD",
+    "City": "CAMDEN",
+    "StateCode": "AR"
+  },
+  "72": {
+    "SchoolCode": "005245",
+    "SchoolName": "U OF A COMM COLLEGE AT MORRILTON",
+    "Address": "1537 UNIVERSITY BLVD.",
+    "City": "MORRILTON",
+    "StateCode": "AR"
+  },
+  "73": {
+    "SchoolCode": "005732",
+    "SchoolName": "UNIV AR COMMUNITY COLLEGE AT HOPE",
+    "Address": "2500 SOUTH MAIN",
+    "City": "HOPE",
+    "StateCode": "AR"
+  },
+  "74": {
+    "SchoolCode": "001108",
+    "SchoolName": "UNIV ARKANSAS FAYETTEVILLE",
+    "Address": "425 ADMINISTRATION BLDG",
+    "City": "FAYETTEVILLE",
+    "StateCode": "AR"
+  },
+  "75": {
+    "SchoolCode": "001101",
+    "SchoolName": "UNIV ARKANSAS LITTLE ROCK",
+    "Address": "2801 SOUTH UNIVERSITY AVE",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "76": {
+    "SchoolCode": "001085",
+    "SchoolName": "UNIV ARKANSAS MONTICELLO",
+    "Address": "PO BOX 3470",
+    "City": "MONTICELLO",
+    "StateCode": "AR"
+  },
+  "77": {
+    "SchoolCode": "001086",
+    "SchoolName": "UNIV OF ARKANSAS AT PINE BLUFF",
+    "Address": "FINANCIAL AID  BOX 4985",
+    "City": "PINE BLUFF",
+    "StateCode": "AR"
+  },
+  "78": {
+    "SchoolCode": "014042",
+    "SchoolName": "UNIVERSITY OF ARKANSAS COMMUNITY COLLEGE",
+    "Address": "2005 WHITE DRIVE",
+    "City": "BATESVILLE",
+    "StateCode": "AR"
+  },
+  "79": {
+    "SchoolCode": "001109",
+    "SchoolName": "UNIVERSITY OF ARKANSAS FOR MEDICAL SCIEN",
+    "Address": "4301 WEST MARKHAM STREET",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "80": {
+    "SchoolCode": "001110",
+    "SchoolName": "UNIVERSITY OF ARKANSAS-FORT SMITH",
+    "Address": "5210 GRAND AVE",
+    "City": "FORT SMITH",
+    "StateCode": "AR"
+  },
+  "81": {
+    "SchoolCode": "001092",
+    "SchoolName": "UNIVERSITY OF CENTRAL ARKANSAS",
+    "Address": "201 DONAGHEY AV BERNARD HL-202",
+    "City": "CONWAY",
+    "StateCode": "AR"
+  },
+  "82": {
+    "SchoolCode": "001094",
+    "SchoolName": "UNIVERSITY OF THE OZARKS",
+    "Address": "415 COLLEGE AVENUE",
+    "City": "CLARKSVILLE",
+    "StateCode": "AR"
+  },
+  "83": {
+    "SchoolCode": "032143",
+    "SchoolName": "VELVATEX COLLEGE OF BEAUTY CULTURE",
+    "Address": "1520 MARTIN LUTHER KING JR DR",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "84": {
+    "SchoolCode": "E40414",
+    "SchoolName": "VISTA COLLEGE - FT. SMITH",
+    "Address": "1200 SOUTH WALDRON ROAD",
+    "City": "FT. SMITH",
+    "StateCode": "AR"
+  },
+  "85": {
+    "SchoolCode": "041831",
+    "SchoolName": "WASHINGTON BARBER COLLEGE",
+    "Address": "5300 WEST 65TH STREET",
+    "City": "LITTLE ROCK",
+    "StateCode": "AR"
+  },
+  "86": {
+    "SchoolCode": "001106",
+    "SchoolName": "WILLIAMS BAPTIST COLLEGE",
+    "Address": "60 W. FULLBRIGHT AVE",
+    "City": "WALNUT RIDGE",
+    "StateCode": "AR"
+  }
+}

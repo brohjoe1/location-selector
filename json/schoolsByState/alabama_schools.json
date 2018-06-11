@@ -1,0 +1,583 @@
+{
+  "1": {
+    "code": "001002",
+    "name": "ALABAMA AGRCLTL & MECHL UNIV",
+    "Address": "4900 MERIDAN STREET",
+    "City": "NORMAL",
+    "StateCode": "AL"
+  },
+  "2": {
+    "SchoolCode": "042267",
+    "SchoolName": "ALABAMA COLLEGE OF OSTEOPATHIC MEDICINE",
+    "Address": "445 HEALTH SCIENCES BOULEVARD",
+    "City": "DOTHAN",
+    "StateCode": "AL"
+  },
+  "3": {
+    "SchoolCode": "042555",
+    "SchoolName": "ALABAMA SCHOOL OF NAIL TECHNOLOGY & COSM",
+    "Address": "202 COMMERCE STREET",
+    "City": "JACKSON",
+    "StateCode": "AL"
+  },
+  "4": {
+    "SchoolCode": "030325",
+    "SchoolName": "ALABAMA STATE CLG BARBER STYLING",
+    "Address": "9480 PARKWAY  E",
+    "City": "BIRMINGHAM",
+    "StateCode": "AL"
+  },
+  "5": {
+    "SchoolCode": "001005",
+    "SchoolName": "ALABAMA STATE UNIVERSITY",
+    "Address": "915 SOUTH JACKSON STREET",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "6": {
+    "SchoolCode": "016885",
+    "SchoolName": "AMRIDGE UNIVERSITY",
+    "Address": "1200 TAYLOR RD  PO BOX 240240",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "7": {
+    "SchoolCode": "001008",
+    "SchoolName": "ATHENS STATE UNIVERSITY",
+    "Address": "300 NORTH BEATY STREET",
+    "City": "ATHENS",
+    "StateCode": "AL"
+  },
+  "8": {
+    "SchoolCode": "001009",
+    "SchoolName": "AUBURN UNIVERSITY",
+    "Address": "203 MARY MARTIN HALL",
+    "City": "AUBURN",
+    "StateCode": "AL"
+  },
+  "9": {
+    "SchoolCode": "008310",
+    "SchoolName": "AUBURN UNIVERSITY-MONTGOMERY",
+    "Address": "P O BOX 244023",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "10": {
+    "SchoolCode": "005733",
+    "SchoolName": "BEVILL STATE CMTY COLLEGE-WALKER",
+    "Address": "HIGHWAY 78 WEST AND STATE STREET",
+    "City": "SUMITON",
+    "StateCode": "AL"
+  },
+  "11": {
+    "SchoolCode": "001012",
+    "SchoolName": "BIRMINGHAM SOUTHERN COLLEGE",
+    "Address": "900 ARKADELPHIA ROAD",
+    "City": "BIRMINGHAM",
+    "StateCode": "AL"
+  },
+  "12": {
+    "SchoolCode": "001030",
+    "SchoolName": "BISHOP STATE COMMUNITY COLLEGE",
+    "Address": "351 NO BROAD STREET",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "13": {
+    "SchoolCode": "037833",
+    "SchoolName": "BLUE CLIFF CAREER COLLEGE",
+    "Address": "2970 COTTAGE HILL ROAD",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "14": {
+    "SchoolCode": "042679",
+    "SchoolName": "BROWN BEAUTY BARBER SCHOOL",
+    "Address": "1724 1ST AVENUE NORTH",
+    "City": "BESSEMER",
+    "StateCode": "AL"
+  },
+  "15": {
+    "SchoolCode": "001013",
+    "SchoolName": "CALHOUN COMMUNITY COLLEGE",
+    "Address": "POST OFFICE BOX 2216",
+    "City": "DECATUR",
+    "StateCode": "AL"
+  },
+  "16": {
+    "SchoolCode": "040663",
+    "SchoolName": "CARDIAC AND VASCULAR INSTITUTE OF ULTRAS",
+    "Address": "1729 SPRINGHILL AVENUE",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "17": {
+    "SchoolCode": "001007",
+    "SchoolName": "CENTRAL ALABAMA COMMUNITY COLLEGE",
+    "Address": "PO BOX 699",
+    "City": "ALEXANDER CITY",
+    "StateCode": "AL"
+  },
+  "18": {
+    "SchoolCode": "012182",
+    "SchoolName": "CHATTAHOOCHEE VALLEY CMTY CLG",
+    "Address": "2602 COLLEGE DRIVE",
+    "City": "PHENIX CITY",
+    "StateCode": "AL"
+  },
+  "19": {
+    "SchoolCode": "001060",
+    "SchoolName": "COASTAL ALABAMA COMMUNITY COLLEGE",
+    "Address": "1900 HIGHWAY 31 SOUTH",
+    "City": "BAY MINETTE",
+    "StateCode": "AL"
+  },
+  "20": {
+    "SchoolCode": "041215",
+    "SchoolName": "COLUMBIA SOUTHERN UNIVERSITY",
+    "Address": "21982 UNIVERSITY LANE",
+    "City": "ORANGE BEACH",
+    "StateCode": "AL"
+  },
+  "21": {
+    "SchoolCode": "010554",
+    "SchoolName": "CONCORDIA COLLEGE",
+    "Address": "1804 GREEN STREET",
+    "City": "SELMA",
+    "StateCode": "AL"
+  },
+  "22": {
+    "SchoolCode": "E40408",
+    "SchoolName": "EDWARD VIA VIRGINIA COLLEGE OF OSTEOPATH",
+    "Address": "910 S. DONAHUE DRIVE",
+    "City": "AUBURN",
+    "StateCode": "AL"
+  },
+  "23": {
+    "SchoolCode": "001015",
+    "SchoolName": "ENTERPRISE STATE COMMUNITY COLLEGE",
+    "Address": "POST OFFICE BOX 1300",
+    "City": "ENTERPRISE",
+    "StateCode": "AL"
+  },
+  "24": {
+    "SchoolCode": "001003",
+    "SchoolName": "FAULKNER UNIVERSITY",
+    "Address": "5345 ATLANTA HIGHWAY",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "25": {
+    "SchoolCode": "016592",
+    "SchoolName": "FORTIS COLLEGE",
+    "Address": "3590 PLEASANT VALLEY ROAD",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "26": {
+    "SchoolCode": "033614",
+    "SchoolName": "FORTIS COLLEGE",
+    "Address": "200 EAST LAUREL AVENUE",
+    "City": "FOLEY",
+    "StateCode": "AL"
+  },
+  "27": {
+    "SchoolCode": "001017",
+    "SchoolName": "GADSDEN STATE COMMUNITY COLLEGE",
+    "Address": "1001 GEORGE WALLACE DR",
+    "City": "GADSDEN",
+    "StateCode": "AL"
+  },
+  "28": {
+    "SchoolCode": "001018",
+    "SchoolName": "GEORGE C WALLACE COMMUNITY COLLEGE",
+    "Address": "1141 WALLACE DRIVE",
+    "City": "DOTHAN",
+    "StateCode": "AL"
+  },
+  "29": {
+    "SchoolCode": "007871",
+    "SchoolName": "GEORGE C WALLACE STATE CMTY CLG",
+    "Address": "PO BOX 2000",
+    "City": "HANCEVILLE",
+    "StateCode": "AL"
+  },
+  "30": {
+    "SchoolCode": "009980",
+    "SchoolName": "GEORGE C WALLACE STATE CMTY COLLEGE",
+    "Address": "3000 EARL GOODWIN PARKWAY",
+    "City": "SELMA",
+    "StateCode": "AL"
+  },
+  "31": {
+    "SchoolCode": "005693",
+    "SchoolName": "H. C. TRENHOLM ST TECH COL-PATTERSON CAM",
+    "Address": "3920 TROY HIGHWAY",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "32": {
+    "SchoolCode": "005734",
+    "SchoolName": "H. COUNCILL TRENHOLM STATE TECH COLLEGE",
+    "Address": "POST OFFICE BOX 10048",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "33": {
+    "SchoolCode": "041873",
+    "SchoolName": "HAIR ACADEMY (THE)",
+    "Address": "3150 MCGEHEE ROAD",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "34": {
+    "SchoolCode": "015370",
+    "SchoolName": "HERITAGE CHRISTIAN UNIVERSITY",
+    "Address": "PO BOX  HCU",
+    "City": "FLORENCE",
+    "StateCode": "AL"
+  },
+  "35": {
+    "SchoolCode": "001019",
+    "SchoolName": "HUNTINGDON COLLEGE",
+    "Address": "1500 EAST FAIRVIEW AVE",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "36": {
+    "SchoolCode": "038943",
+    "SchoolName": "HUNTSVILLE BIBLE COLLEGE",
+    "Address": "904 OAKWOOD AVENUE",
+    "City": "HUNTSVILLE",
+    "StateCode": "AL"
+  },
+  "37": {
+    "SchoolCode": "005260",
+    "SchoolName": "J.F. DRAKE STATE TECH COLLEGE",
+    "Address": "3421 MERIDIAN STREET NORTH",
+    "City": "HUNTSVILLE",
+    "StateCode": "AL"
+  },
+  "38": {
+    "SchoolCode": "030025",
+    "SchoolName": "J.F. INGRAM STATE TECHNICAL COLLEGE",
+    "Address": "5375 INGRAM ROAD",
+    "City": "DEATSVILLE",
+    "StateCode": "AL"
+  },
+  "39": {
+    "SchoolCode": "001020",
+    "SchoolName": "JACKSONVILLE STATE UNIVERSITY",
+    "Address": "700 PELHAM RD NORTH  FINCL.AID",
+    "City": "JACKSONVILLE",
+    "StateCode": "AL"
+  },
+  "40": {
+    "SchoolCode": "001022",
+    "SchoolName": "JEFFERSON STATE COMMUNITY COLLEGE",
+    "Address": "2601 CARSON ROAD",
+    "City": "BIRMINGHAM",
+    "StateCode": "AL"
+  },
+  "41": {
+    "SchoolCode": "001023",
+    "SchoolName": "JUDSON COLLEGE",
+    "Address": "302 BIBB STREET",
+    "City": "MARION",
+    "StateCode": "AL"
+  },
+  "42": {
+    "SchoolCode": "001059",
+    "SchoolName": "LAWSON STATE COMMUNITY COLLEGE",
+    "Address": "3060 WILSON ROAD S.W.",
+    "City": "BIRMINGHAM",
+    "StateCode": "AL"
+  },
+  "43": {
+    "SchoolCode": "005704",
+    "SchoolName": "LAWSON STATE COMMUNITY COLLEGE - BESSEME",
+    "Address": "1100 NINTH AVENUE, SOUTHWEST",
+    "City": "BESSEMER",
+    "StateCode": "AL"
+  },
+  "44": {
+    "SchoolCode": "008988",
+    "SchoolName": "LURLEEN B WALLACE COMMUNITY COLLEGE",
+    "Address": "P O DRAWER 1418 HWY 84 EAST",
+    "City": "ANDALUSIA",
+    "StateCode": "AL"
+  },
+  "45": {
+    "SchoolCode": "001026",
+    "SchoolName": "MARION MILITARY INSTITUTE",
+    "Address": "WASHINGTON STREET",
+    "City": "MARION",
+    "StateCode": "AL"
+  },
+  "46": {
+    "SchoolCode": "042294",
+    "SchoolName": "MIDFIELD INSTITUTE OF COSMETOLOGY",
+    "Address": "26 B PHILLIPS DRIVE",
+    "City": "MIDFIELD",
+    "StateCode": "AL"
+  },
+  "47": {
+    "SchoolCode": "001028",
+    "SchoolName": "MILES COLLEGE",
+    "Address": "5500 MYRON MASSEY BOULEVARD",
+    "City": "FAIRFIELD",
+    "StateCode": "AL"
+  },
+  "48": {
+    "SchoolCode": "031135",
+    "SchoolName": "MITCHELL COSMETOLOGY COLLEGE",
+    "Address": "116 FIRST STREET SOUTH",
+    "City": "ALABASTER",
+    "StateCode": "AL"
+  },
+  "49": {
+    "SchoolCode": "041872",
+    "SchoolName": "NEW BEGINNING COLLEGE OF COSMETOLOGY",
+    "Address": "509 BALTIMORE AVENUE",
+    "City": "ALBERTVILLE",
+    "StateCode": "AL"
+  },
+  "50": {
+    "SchoolCode": "001031",
+    "SchoolName": "NORTHEAST ALABAMA STATE CMNTY COLG",
+    "Address": "P.O. BOX 159 - HWY 35 WEST",
+    "City": "RAINSVILLE",
+    "StateCode": "AL"
+  },
+  "51": {
+    "SchoolCode": "005697",
+    "SchoolName": "NORTHWEST- SHOALS COMMUNITY COLLEGE",
+    "Address": "800 GEORGE WALLACE BLVD",
+    "City": "MUSCLE SHOALS",
+    "StateCode": "AL"
+  },
+  "52": {
+    "SchoolCode": "001033",
+    "SchoolName": "OAKWOOD COLLEGE",
+    "Address": "7000 ADVENTIST BLVD",
+    "City": "HUNTSVILLE",
+    "StateCode": "AL"
+  },
+  "53": {
+    "SchoolCode": "016113",
+    "SchoolName": "PAUL MITCHELL THE SCHOOL HUNTSVILLE",
+    "Address": "3810 SULLIVAN ST",
+    "City": "MADISON",
+    "StateCode": "AL"
+  },
+  "54": {
+    "SchoolCode": "005692",
+    "SchoolName": "REID STATE TECHNICAL COLLEGE",
+    "Address": "PO BOX 588 INTSTE 65 & HWY 83",
+    "City": "EVERGREEN",
+    "StateCode": "AL"
+  },
+  "55": {
+    "SchoolCode": "026055",
+    "SchoolName": "REMINGTON COLLEGE - MOBILE",
+    "Address": "828 DOWNTOWNER LOOP WEST",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "56": {
+    "SchoolCode": "042110",
+    "SchoolName": "SALON PROFESSIONAL ACADEMY (THE)",
+    "Address": "4925 UNIVERSITY DRIVE",
+    "City": "HUNTSVILLE",
+    "StateCode": "AL"
+  },
+  "57": {
+    "SchoolCode": "001036",
+    "SchoolName": "SAMFORD UNIVERSITY",
+    "Address": "800 LAKESHORE DRIVE",
+    "City": "BIRMINGHAM",
+    "StateCode": "AL"
+  },
+  "58": {
+    "SchoolCode": "040673",
+    "SchoolName": "SELMA UNIVERSITY",
+    "Address": "1501 LAPSLEY STREET",
+    "City": "SELMA",
+    "StateCode": "AL"
+  },
+  "59": {
+    "SchoolCode": "005691",
+    "SchoolName": "SHELTON STATE COMMUNITY CLG",
+    "Address": "9500 OLD GREENSBORO ROAD",
+    "City": "TUSCALOOSA",
+    "StateCode": "AL"
+  },
+  "60": {
+    "SchoolCode": "001038",
+    "SchoolName": "SNEAD STATE COMMUNITY COLLEGE",
+    "Address": "220 NORTH WALNUT STREET",
+    "City": "BOAZ",
+    "StateCode": "AL"
+  },
+  "61": {
+    "SchoolCode": "004463",
+    "SchoolName": "SOUTH UNIVERSITY - MONTGOMERY",
+    "Address": "5355 VAUGHN ROAD",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "62": {
+    "SchoolCode": "001040",
+    "SchoolName": "SOUTHERN UNION STATE COMMUNITY CLG",
+    "Address": "750 ROBERTS ST PO BOX 1000",
+    "City": "WADLEY",
+    "StateCode": "AL"
+  },
+  "63": {
+    "SchoolCode": "001041",
+    "SchoolName": "SPRING HILL COLLEGE",
+    "Address": "4000 DAUPHIN STREET",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "64": {
+    "SchoolCode": "001044",
+    "SchoolName": "STILLMAN COLLEGE",
+    "Address": "PO DRAWER 1430",
+    "City": "TUSCALOOSA",
+    "StateCode": "AL"
+  },
+  "65": {
+    "SchoolCode": "001046",
+    "SchoolName": "TALLADEGA COLLEGE",
+    "Address": "627 WEST BATTLE STREET",
+    "City": "TALLADEGA",
+    "StateCode": "AL"
+  },
+  "66": {
+    "SchoolCode": "001047",
+    "SchoolName": "TROY UNIVERSITY",
+    "Address": "UNIVERSITY AVENUE",
+    "City": "TROY",
+    "StateCode": "AL"
+  },
+  "67": {
+    "SchoolCode": "001050",
+    "SchoolName": "TUSKEGEE UNIVERSITY",
+    "Address": "308 KRESGE CENTER",
+    "City": "TUSKEGEE",
+    "StateCode": "AL"
+  },
+  "68": {
+    "SchoolCode": "021706",
+    "SchoolName": "UNITED STATES SPORTS ACADEMY",
+    "Address": "ONE ACADEMY DRIVE",
+    "City": "DAPHNE",
+    "StateCode": "AL"
+  },
+  "69": {
+    "SchoolCode": "041975",
+    "SchoolName": "UNIVERSITY ACADEMY OF HAIR DESIGN",
+    "Address": "3400 MCFARLAND BOULEVARD",
+    "City": "NORTHPORT",
+    "StateCode": "AL"
+  },
+  "70": {
+    "SchoolCode": "001051",
+    "SchoolName": "UNIVERSITY OF ALABAMA (THE)",
+    "Address": "PO BOX 870162",
+    "City": "TUSCALOOSA",
+    "StateCode": "AL"
+  },
+  "71": {
+    "SchoolCode": "001052",
+    "SchoolName": "UNIVERSITY OF ALABAMA AT BIRMINGHAM",
+    "Address": "1530 3RD AVE SO HUC 317C",
+    "City": "BIRMINGHAM",
+    "StateCode": "AL"
+  },
+  "72": {
+    "SchoolCode": "001055",
+    "SchoolName": "UNIVERSITY OF ALABAMA IN HUNTSVILLE",
+    "Address": "OFF FINANCIAL AID - UC 212",
+    "City": "HUNTSVILLE",
+    "StateCode": "AL"
+  },
+  "73": {
+    "SchoolCode": "001029",
+    "SchoolName": "UNIVERSITY OF MOBILE",
+    "Address": "5735 COLLEGE PARKWAY",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "74": {
+    "SchoolCode": "001004",
+    "SchoolName": "UNIVERSITY OF MONTEVALLO",
+    "Address": "PALMER CIRCLE",
+    "City": "MONTEVALLO",
+    "StateCode": "AL"
+  },
+  "75": {
+    "SchoolCode": "001016",
+    "SchoolName": "UNIVERSITY OF NORTH ALABAMA",
+    "Address": "ONE HARRISON PLAZA",
+    "City": "FLORENCE",
+    "StateCode": "AL"
+  },
+  "76": {
+    "SchoolCode": "001057",
+    "SchoolName": "UNIVERSITY OF SOUTH ALABAMA",
+    "Address": "270 ADMINISTRATION BUILDING",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "77": {
+    "SchoolCode": "001024",
+    "SchoolName": "UNIVERSITY OF WEST ALABAMA",
+    "Address": "205 N WASHINGTON",
+    "City": "LIVINGSTON",
+    "StateCode": "AL"
+  },
+  "78": {
+    "SchoolCode": "030106",
+    "SchoolName": "VIRGINIA COLLEGE",
+    "Address": "488 PALISADES BOULEVARD",
+    "City": "BIRMINGHAM",
+    "StateCode": "AL"
+  },
+  "79": {
+    "SchoolCode": "E00951",
+    "SchoolName": "VIRGINIA COLLEGE - HUNTSVILLE",
+    "Address": "2021 DRAKE AVENUE SW",
+    "City": "HUNTSVILLE",
+    "StateCode": "AL"
+  },
+  "80": {
+    "SchoolCode": "E01007",
+    "SchoolName": "VIRGINIA COLLEGE - MOBILE",
+    "Address": "3725 AIRPORT BOULEVARD, SUITE 165",
+    "City": "MOBILE",
+    "StateCode": "AL"
+  },
+  "81": {
+    "SchoolCode": "E01434",
+    "SchoolName": "VIRGINIA COLLEGE - MONTGOMERY",
+    "Address": "6200 ATLANTA HIGHWAY",
+    "City": "MONTGOMERY",
+    "StateCode": "AL"
+  },
+  "82": {
+    "SchoolCode": "042735",
+    "SchoolName": "WINONAH'S INTERNATIONAL SCHOOL OF COSMET",
+    "Address": "1870 CHACE DRIVE",
+    "City": "HOOVER",
+    "StateCode": "AL"
+  },
+  "83": {
+    "SchoolCode": "041492",
+    "SchoolName": "XCELL ACADEMY-A PAUL MITCHELL PARTNER SC",
+    "Address": "1694 MONTGOMERY HIGHWAY",
+    "City": "HOOVER",
+    "StateCode": "AL"
+  }
+}
