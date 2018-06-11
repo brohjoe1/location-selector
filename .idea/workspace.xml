@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fdefd4-c7a4-4c0d-bdaf-fe04da87f70a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/brohj_000.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/location selector.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/custom3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/albanyGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/americusGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/athensGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/atlantaSchools.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/augustaGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/bainbridgeGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/brunswickGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/carrolltonGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/cummingGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/cuthbertGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/dahlonegaGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/daltonGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/decaturGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/demorestGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/doravilleGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/douglasGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/duluthGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/eastpointGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/evansGA.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/GAschoolsByCity/states.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/countries.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/countries1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/ga_cities2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/georgia_cities.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/schoolsByState/alabama2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/schoolsByState/alabama_schools.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/schoolsByState/alaska_schools" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/schoolsByState/arkansas_schools.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/us_states.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/us_states1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locationSelector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,8 +19,8 @@
       <file leaf-file-name="locationSelector.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/locationSelector.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="9" lean-forward="true" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -79,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="19" lean-forward="true" selection-end-line="840" />
+              <caret line="9" column="19" selection-end-line="840" />
             </state>
           </provider>
         </entry>
@@ -199,7 +158,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1370" />
@@ -211,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,7 +187,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,24 +276,24 @@
       <workItem from="1528585803804" duration="1552000" />
       <workItem from="1528596955300" duration="97000" />
       <workItem from="1528662131915" duration="1821000" />
+      <workItem from="1528756807227" duration="505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172595000" />
+    <option name="totallyTimeSpent" value="173100000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18526785" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3282572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32656515" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3250825" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993232" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -349,19 +308,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3282572" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993232" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3282572" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3282572" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -555,14 +514,14 @@
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-end-line="840" />
+          <caret line="9" column="19" selection-end-line="840" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/locationSelector.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" lean-forward="true" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
